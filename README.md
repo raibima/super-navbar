@@ -1,11 +1,11 @@
 # super-navbar
-Dead-simple React navigation bar component inspired by [webpack](https://webpack.js.org) site's navbar. Current build only supports usage within [Next](github.com/zeit/next.js) (support for vanilla React coming!)
+Dead-simple React navigation bar component inspired by [webpack](https://webpack.js.org) site's navbar.
 
 ![demo](http://g.recordit.co/aKHJZjmAzi.gif)
 
 ## Development
 ```bash
-$ git clone https://github.com/coderay1100/super-navbar && cd super-navbar
+$ git clone https://github.com/raibima/super-navbar && cd super-navbar
 $ yarn
 $ yarn run dev
 ```
@@ -18,3 +18,5 @@ $ yarn run dev
   <a href="/contact">Contact us</a>
 </Navbar>
 ```
+
+[See example](https://github.com/raibima/super-navbar/tree/master/example)
