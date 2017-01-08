@@ -3,20 +3,26 @@ Dead-simple React navigation bar component inspired by [webpack](https://webpack
 
 ![demo](http://g.recordit.co/aKHJZjmAzi.gif)
 
-## Development
+## Installation
 ```bash
-$ git clone https://github.com/raibima/super-navbar && cd super-navbar
-$ yarn
-$ yarn run dev
+npm i -S super-navbar
+# or
+yarn add super-navbar
 ```
 
 ## Usage
-
 ```js
 <Navbar>
   <a href="/about">About</a>
   <a href="/contact">Contact us</a>
 </Navbar>
 ```
-
 [See example](https://github.com/raibima/super-navbar/tree/master/example)
+
+## Development
+Running the example locally is really easy!
+```bash
+git clone https://github.com/raibima/super-navbar && cd super-navbar
+yarn
+yarn dev
+```
