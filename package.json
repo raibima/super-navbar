@@ -20,7 +20,9 @@
   "main": "dist/super-navbar.js",
   "sourceIndex": "super-navbar.js",
   "peerDependencies": {
-    "react": ">=0.12.1"
+    "react": ">=0.12.1",
+    "styled-jsx": ">=0.4.0",
+    "babel-core": ">=6.21.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",

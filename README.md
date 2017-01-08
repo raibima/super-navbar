@@ -4,6 +4,7 @@ Dead-simple React navigation bar component inspired by [webpack](https://webpack
 ![demo](http://g.recordit.co/aKHJZjmAzi.gif)
 
 ## Installation
+This package utilizes `styled-jsx` for styling purposes. Please make sure to install that before proceeding to the next step. [See this guide](https://github.com/zeit/styled-jsx)
 ```bash
 npm i -S super-navbar
 # or
