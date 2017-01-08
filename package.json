@@ -17,7 +17,7 @@
     "url": "https://github.com/raibima/super-navbar/issues"
   },
   "homepage": "https://github.com/raibima/super-navbar",
-  "main": "build/super-navbar.js",
+  "main": "dist/super-navbar.js",
   "sourceIndex": "super-navbar.js",
   "peerDependencies": {
     "react": ">=0.12.1"
